@@ -11,7 +11,7 @@ void printMaxOccurrences(int *pointer_arr_ledger, int ledger_length, int max_occ
 
 int main()
 {
-    const int LENGTH = 15;
+    const int LENGTH = 100;
     int arr_nums[LENGTH] = {0};
 
     int N_input_lines;
